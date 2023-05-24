@@ -1,0 +1,7 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/JohannesThoren/math-api-backend
+
+[submodule "graph"]
+	path = graph
+	url = https://github.com/romptroll/graph
