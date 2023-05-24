@@ -1,5 +1,5 @@
-[submodule "backend"]
-	path = backend
+[submodule "math-api-backend"]
+	path = math-api-backend
 	url = https://github.com/JohannesThoren/math-api-backend
 
 [submodule "graph"]
